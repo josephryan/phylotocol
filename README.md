@@ -27,7 +27,7 @@ Version control is important to track *phylotocol* development, revisions, and a
 
 ### Example
 
-An example of a *phylotocol* is available [here](https://github.com/josephryan/2017-SpongeParaHoxAnalyses/blob/master/00-PhylogeneticsProtocol_v1.0.pdf).
+An example of a project that uses *phylotocol* is available [here](https://github.com/josephryan/2017-SpongeParaHoxAnalyses/).
 
 ### License
 
