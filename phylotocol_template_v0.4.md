@@ -1,7 +1,7 @@
 # <TITLE>
  Principle Investigator: <Principal investigator(s)>  
- Draft or Version Number: v.<x.x>
- Date: \<Day Month Year>
+ Draft or Version Number: v.<x.x>  
+ Date: \<Day Month Year>  
 
 ## LIST OF ABBREVIATIONS
 
