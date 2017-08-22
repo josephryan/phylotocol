@@ -5,21 +5,21 @@
 
 ## LIST OF ABBREVIATIONS
 
-<abbreviations>
+\<abbreviations>
 
 ## 1 INTRODUCTION: BACKGROUND INFORMATION AND SCIENTIFIC RATIONALE  
 
 ### 1.1 _Background Information_  
 
-<background information>
+\<background information>
 
 ### 1.2 _Rationale_  
 
-<rationale>
+\<rationale>
 
 ### 1.3 _Objectives_  
 
-<objectives>
+\<objectives>
 
 ## 2 STUDY DESIGN AND ENDPOINTS  
 
@@ -41,11 +41,11 @@
 
 ## 3 WORK COMPLETED SO FAR WITH DATES  
 
-<day month year> <steps above that have been completed>
+\<day month year> <steps above that have been completed>
 
 ## 4 LITERATURE REFERENCED  
 
-<literature>
+\<literature>
 
 ## APPENDIX
 
