@@ -1,7 +1,7 @@
 # <TITLE>
  Principle Investigator: <Principal investigator(s)>  
-  Draft or Version Number: v.<x.x>
- Date: <Day Month Year>
+ Draft or Version Number: v.<x.x>
+ Date: \<Day Month Year>
 
 ## LIST OF ABBREVIATIONS
 
@@ -41,7 +41,7 @@
 
 ## 3 WORK COMPLETED SO FAR WITH DATES  
 
-\<day month year> <steps above that have been completed>
+\<day month year> \<steps above that have been completed>
 
 ## 4 LITERATURE REFERENCED  
 
