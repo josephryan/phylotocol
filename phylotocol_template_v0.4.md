@@ -3,6 +3,9 @@
  Draft or Version Number: v.<x.x>  
  Date: \<Day Month Year>  
 
+## SUMMARY OF CHANGES FROM PREVIOUS VERSION
+\<affected section> \<summary of revisions made> \<rationale>
+
 ## LIST OF ABBREVIATIONS
 
 \<abbreviations>
