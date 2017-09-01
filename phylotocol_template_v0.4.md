@@ -1,5 +1,5 @@
 # <TITLE>
- Principle Investigator: <Principal investigator(s)>  
+ Principal Investigator: <Principal investigator(s)>  
  Draft or Version Number: v.<x.x>  
  Date: \<Day Month Year>  
 
