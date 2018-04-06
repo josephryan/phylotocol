@@ -1,6 +1,8 @@
 # phylotocol
 *template, example, and instructions on how to make an a priori phylogenetic protocol*
 
+For a detailed discussion of phylotocol, please see our preprint: https://peerj.com/preprints/26585/
+
 ### About
 
 The rationale for *phylotocol* is to provide general guidelines and a very generic template for researchers to document *a priori* planned phylogenetic analyses as well as changes to the original protocol through updated versioning. The concept is modeled after clinical trial protocols. The original template is modeled after the NIH clinical trial template available here: http://osp.od.nih.gov/wp-content/uploads/Protocol-Template-Version-1.0-040717.docx   
