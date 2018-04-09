@@ -7,7 +7,7 @@ For a detailed discussion of phylotocol, please see our preprint: https://peerj.
 
 The rationale for *phylotocol* is to provide general guidelines and a very generic template for researchers to document *a priori* planned phylogenetic analyses as well as changes to the original protocol through updated versioning. The concept is modeled after clinical trial protocols. The original template is modeled after the NIH clinical trial template available here: http://osp.od.nih.gov/wp-content/uploads/Protocol-Template-Version-1.0-040717.docx   
 
-It is intended that a *phylotocol* would be posted to a public repository like GitHub or FigShare immediately after it is completed, and that a DOI or link to the document would be provided in any publications that resulted from the proposed analyses. it is highly recommended to post the phylotocol on a public site that will provide a timestamp.
+It is intended that a *phylotocol* would be posted to a public repository like GitHub or FigShare immediately after it is completed, and that a DOI or link to the document would be provided in any publications that resulted from the proposed analyses. It can also be used as the basis of a preregistration (e.g., through the Open Science Framework http://help.osf.io/m/registrations/l/524205-register-your-project). It is highly recommended to post the phylotocol on a public site that will provide a timestamp.
 
 A *phylotocol* adds transparency to the process of phylogenetic analysis. It allows readers of a phylogenetic study to understand the original rationale for a study. It forces any changes (e.g., removal of taxa, change in methods, etc.) to be accompanied by explicit justification. In this way, it helps reduce confirmation bias, and allows outsiders to assess the work rather than assume that the reported results were influenced by confirmation bias. 
 
@@ -27,9 +27,17 @@ Example text is included to further aid in *phylotocol* writing and can be modif
 
 Version control is important to track *phylotocol* development, revisions, and amendments.  With each revision, the version number and date located on the cover page and in the footer of each page should be updated.  When making changes to a released *phylotocol*, the amendment history should be maintained (see Section 5 PHYLOTOCOL AMENDMENT HISTORY). All versions should be published with the study. 
 
-### Example
+### Examples
 
-An example of a project that uses *phylotocol* is available [here](https://github.com/josephryan/2017-SpongeParaHoxAnalyses/).
+The following are repos with examples of *phylotocol*
+
+* gene family analyses: https://github.com/josephryan/2018-Pastrana_etal_SpongeParaHoxAnalyses
+* simulation analyses: https://github.com/josephryan/Hernandez_Ryan_2018_RecodingSim
+* species phylogeny analyes: https://github.com/josephryan/Whelpley_et_al_2018_SeaCucumberPhylo
+
+The following is an example of a preregistration that includes a *phylotoocol*
+
+* simulation analyses: https://osf.io/aqv3y/register/565fb3678c5e4a66b5582f67
 
 ### License
 
